@@ -1,6 +1,6 @@
 # Java Projects
 
-# Age Calculator
+### Age Calculator
 A simple application to calculate a person's age based on their date of birth and the current date.
 
 # BMI Calculator
